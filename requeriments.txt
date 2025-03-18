@@ -1,0 +1,8 @@
+Here's a brief explanation of the imported modules and libraries:
+
+torch
+pandas
+matplotlib
+sklearn
+
+Each of these libraries plays a critical role in building, analyzing, and ensuring the reliability of the cryptocurrency trading system.
